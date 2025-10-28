@@ -1,1 +1,14 @@
+# pytest
 .pytest_cache/
+
+# allure
+allure_results/
+allure-report/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
